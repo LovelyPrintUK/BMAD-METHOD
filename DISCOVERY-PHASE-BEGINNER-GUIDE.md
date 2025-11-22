@@ -20,6 +20,7 @@ Discovery Phase (Phase 1) is like having a conversation with yourself about your
 ## When Should You Use Discovery?
 
 ### ✅ Use Discovery When:
+
 - You have a project idea but it's still fuzzy
 - You're not sure what features to include
 - You want to explore different approaches
@@ -27,6 +28,7 @@ Discovery Phase (Phase 1) is like having a conversation with yourself about your
 - You want to validate your idea makes sense
 
 ### ⏭️ Skip Discovery When:
+
 - Your requirements are crystal clear
 - You're fixing bugs or adding simple features
 - You're following an existing pattern
@@ -39,11 +41,13 @@ Discovery Phase (Phase 1) is like having a conversation with yourself about your
 Phase 1 has 5 specialized workflows. Here's what each one does in plain English:
 
 ### 1. **Product Brief** ⭐ **START HERE**
+
 **What it is:** A guided conversation that helps you capture your product vision
 
 **Best for:** Almost everyone, especially beginners
 
 **What you'll create:**
+
 - Problem statement (what pain are you solving?)
 - Solution overview (how will you solve it?)
 - Target users (who is this for?)
@@ -57,11 +61,13 @@ Phase 1 has 5 specialized workflows. Here's what each one does in plain English:
 ---
 
 ### 2. **Brainstorm Project**
+
 **What it is:** Explore multiple ways to solve your problem
 
 **Best for:** When you're not sure which technical approach to use
 
 **What you'll create:**
+
 - Multiple solution options
 - Pros/cons of each approach
 - Risk analysis
@@ -72,9 +78,11 @@ Phase 1 has 5 specialized workflows. Here's what each one does in plain English:
 ---
 
 ### 3. **Research**
+
 **What it is:** Deep-dive into market, competitors, or technical options
 
 **Research types available:**
+
 - **Market** - Is there a business opportunity?
 - **Competitive** - What else exists? How is yours different?
 - **Technical** - Which framework/technology should I use?
@@ -87,6 +95,7 @@ Phase 1 has 5 specialized workflows. Here's what each one does in plain English:
 ---
 
 ### 4. **Domain Research**
+
 **What it is:** Industry-specific deep dives
 
 **Best for:** Understanding specific industries (healthcare, fintech, gaming, etc.)
@@ -96,6 +105,7 @@ Phase 1 has 5 specialized workflows. Here's what each one does in plain English:
 ---
 
 ### 5. **Brainstorm Game**
+
 **What it is:** Game concept generation using creative techniques
 
 **Best for:** Game developers exploring ideas
@@ -109,10 +119,12 @@ Phase 1 has 5 specialized workflows. Here's what each one does in plain English:
 Here's your step-by-step path as a beginner:
 
 ### Option 1: Guided Discovery (Recommended)
+
 1. **Run the Product Brief workflow** (the AI walks you through everything)
 2. **Then move to Phase 2** (create your PRD - Product Requirements Document)
 
 ### Option 2: Manual Discovery (You're reading this!)
+
 1. **Read this guide** (you're doing it!)
 2. **Answer the key questions below** yourself
 3. **Document your answers** in a simple file
@@ -125,32 +137,38 @@ Here's your step-by-step path as a beginner:
 If you want to think through Discovery on your own, answer these questions:
 
 ### About Your Project
+
 - **Project name:** What are you calling this?
 - **The big idea:** What are you building in one sentence?
 - **Why this matters:** What got you excited about this idea?
 
 ### About the Problem
+
 - **What problem are you solving?** (be specific!)
 - **Who has this problem?** (describe real people)
 - **How are they handling it today?** (what's their current workaround?)
 - **What's the cost of NOT solving it?** (time wasted, money lost, frustration)
 
 ### About Your Solution
+
 - **How will you solve it?** (high-level approach)
 - **What makes your solution different?** (why not use existing tools?)
 - **What's the "magic moment"?** (when will users say "wow, this is awesome!")
 
 ### About Your Users
+
 - **Who is your primary user?** (be specific: not "everyone", but "freelance designers who...")
 - **What do they care about most?** (speed? cost? ease of use?)
 - **How tech-savvy are they?** (affects your design)
 
 ### About Your MVP (Minimum Viable Product)
+
 - **Core features:** What MUST be in version 1?
 - **Nice-to-haves:** What can wait until version 2?
 - **Out of scope:** What are you definitely NOT building (yet)?
 
 ### About Success
+
 - **How will you know this works?** (5 users? 100? $1000 revenue?)
 - **What would make you proud?** (personal projects)
 - **What metrics matter?** (business projects)
@@ -177,22 +195,27 @@ your-project/
 ## 🎬 Getting Started - Your First Steps
 
 ### Step 1: Decide Your Approach
+
 Choose one:
 
 **A) Use the AI-guided Product Brief workflow**
+
 - Load the Analyst agent in your IDE
 - Run the `*product-brief` workflow
 - Follow the conversation
 
 **B) Do it manually**
+
 - Create a file: `docs/discovery/product-brief.md`
 - Answer the key questions above
 - Write it in your own words (no template needed!)
 
 ### Step 2: Spend 30-60 Minutes Thinking
+
 Don't rush! Good discovery = better product.
 
 ### Step 3: When Done, Move to Phase 2
+
 Phase 2 is where you create detailed requirements (PRD or tech-spec).
 
 ---
@@ -200,12 +223,14 @@ Phase 2 is where you create detailed requirements (PRD or tech-spec).
 ## 💡 Beginner Tips
 
 ### ✅ DO:
+
 - Keep it simple - bullet points are fine
 - Focus on the problem, not the solution (at first)
 - Be specific about users ("busy parents" → "parents with kids under 5 who work full-time")
 - Challenge yourself: "Do I REALLY need that feature for v1?"
 
 ### ❌ DON'T:
+
 - Spend more than 1-2 days on Discovery (it's exploration, not a thesis)
 - Try to answer everything perfectly (some uncertainty is OK)
 - Add every feature you can think of (ruthlessly prioritize)
@@ -252,29 +277,35 @@ Here's what a minimal Product Brief looks like:
 # Product Brief: Task Timer App
 
 ## The Problem
+
 Freelancers lose track of time working on client projects and either
 undercharge or can't prove their hours.
 
 ## The Solution
+
 A simple desktop timer that tracks time per project with one-click start/stop.
 Auto-generates invoices with time logs.
 
 ## Target Users
+
 Freelance designers and developers billing hourly ($50-150/hr range)
 
 ## MVP Features
+
 - One-click timer start/stop
 - Project tagging
 - Basic time log export (CSV)
 - Simple invoice template
 
 ## Out of Scope (for now)
+
 - Mobile app
 - Team features
 - Integrations with accounting software
 - Automated invoicing
 
 ## Success Metric
+
 If 10 freelancers use it weekly for 3 months, it's working.
 ```
 

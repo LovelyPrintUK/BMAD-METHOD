@@ -100,6 +100,7 @@
 ### How will you know this is working?
 
 [Examples:
+
 - Personal project: "5 friends use it regularly"
 - Startup: "50 paying customers in 3 months"
 - Enterprise: "20% reduction in processing time"]
@@ -132,16 +133,19 @@
 ## 🛠️ Technical Preferences (Optional)
 
 ### Platform
+
 [ ] Web app
 [ ] Mobile app (iOS/Android)
 [ ] Desktop app
 [ ] Chrome extension
-[ ] Other: _______
+[ ] Other: **\_\_\_**
 
 ### Tech Stack Preferences
+
 [Any specific technologies you want to use? Or leave blank for now]
 
 ### Integrations Needed
+
 [Does this need to connect to other tools/services?]
 
 ---
@@ -169,6 +173,7 @@
 [When do you want the MVP done? Be realistic!]
 
 **Key Milestones:**
+
 - [Milestone 1]
 - [Milestone 2]
 
@@ -183,6 +188,7 @@
 ## Next Steps
 
 Once this is complete:
+
 - [ ] Move to Phase 2: Create PRD (Product Requirements Document)
 - [ ] Or run tech-spec workflow for simpler projects
 - [ ] Reference this brief throughout planning and building
@@ -199,6 +205,7 @@ Once this is complete:
 6. **Keep it real** - Write for yourself, not for investors (unless you are pitching to investors!)
 
 **⏰ Time Guide:**
+
 - Quick pass: 30 minutes
 - Thorough pass: 1-2 hours
 - Don't spend more than 1 day on this!
