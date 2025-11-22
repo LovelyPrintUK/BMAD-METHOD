@@ -66,5 +66,5 @@ src/modules/bmgd/sub-modules/
 z*/
 
 .bmad
-.claude
+.claude/settings.local.json
 .codex
