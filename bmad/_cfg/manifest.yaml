@@ -1,0 +1,9 @@
+# BMAD Installation Manifest
+version: "6.0.0-alpha.12"
+bmad_folder: bmad
+install_date: "2025-11-22"
+modules:
+  - core
+  - bmm
+ides:
+  - claude-code
